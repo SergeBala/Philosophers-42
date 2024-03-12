@@ -62,11 +62,11 @@ Once you’ve compiled an executable called philo, you can launch it with the fo
 
 ### Example: 
 
-
-
 ```bash
 ./philo 5 800 200 200 6 
 ```
+
+[![asciicast](https://asciinema.org/a/eMugvkuex75wMUrcAWJnEm5H7.svg)](https://asciinema.org/a/eMugvkuex75wMUrcAWJnEm5H7)
 
 A simulation starts and the log entries start appearing on the screen documenting all the changes that are occurring until every philosopher has eaten enough times (when specified) or a philosopher dies. Depending on the parameters that you’ve entered, a simulation can potentially go on forever, in which case you can just stop the program. 
 

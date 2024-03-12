@@ -31,9 +31,9 @@ In this project, I use threads and mutexes to coordinate access to forks and ens
 
 ### Code Structure:
 
-—src/: Contains the source code files 
-—Makefile: Build instructions for compiling and running the programs.
-—README.md: This file (you are currently reading it!)
+* src/: Contains the source code files 
+* Makefile: Build instructions for compiling and running the programs.
+* README.md: This file (you are currently reading it!)
 
 
 ### Project Requirements:

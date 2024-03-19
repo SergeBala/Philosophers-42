@@ -1,6 +1,6 @@
 ## Philosophers (a School 42 project)
 
-This repository contains the source code for the Philosophers project, completed as part of the curriculum at 42. This project explores concepts of concurrent programming, specifically focusing on synchronization mechanisms like mutexes and semaphores.
+This repository contains the source code for the Philosophers project, completed as part of the curriculum at 42. This project explores concepts of concurrent programming, specifically focusing on using mutexes as the main synchronization mechanism.
 
 This project is for educational purposes only.
 
